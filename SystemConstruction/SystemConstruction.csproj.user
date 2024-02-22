@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AddEditBudgetPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddEditMaterialPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddEditPlanPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddEditResourcePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddEditStatusPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="BuildingInfoPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CreateBuildingPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EditBuildingNamePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MaterialsFrame.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SelectBuildingPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewBudgetFrame.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewPlansFrame.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewResourcesPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewStatusesPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AddEditBudgetPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddEditMaterialPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddEditPlanPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddEditResourcePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddEditStatusPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="BuildingInfoPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CreateBuildingPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EditBuildingNamePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MaterialsFrame.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SelectBuildingPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewBudgetFrame.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewPlansFrame.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewResourcesPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewStatusesPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,20 @@
+﻿SystemConstruction
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\
+SystemConstruction
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\App.xaml
+151151353239
+
+21988648857
+2441019431156
+AddEditBudgetPage.xaml;AddEditMaterialPage.xaml;AddEditPlanPage.xaml;AddEditResourcePage.xaml;AddEditStatusPage.xaml;BuildingInfoPage.xaml;CreateBuildingPage.xaml;EditBuildingNamePage.xaml;MainWindow.xaml;MaterialsFrame.xaml;SelectBuildingPage.xaml;ViewBudgetFrame.xaml;ViewPlansFrame.xaml;ViewResourcesPage.xaml;ViewStatusesPage.xaml;
+
+False
+

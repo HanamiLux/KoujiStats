@@ -1,0 +1,348 @@
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\SystemConstruction.exe
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\SystemConstruction.deps.json
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\SystemConstruction.runtimeconfig.json
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\SystemConstruction.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\SystemConstruction.pdb
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\SystemConstruction.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\SystemConstruction_MarkupCompile.cache
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\SystemConstruction_MarkupCompile.lref
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\App.baml
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\SystemConstruction.g.resources
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\SystemConstruction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\SystemConstruction.AssemblyInfoInputs.cache
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\SystemConstruction.AssemblyInfo.cs
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\SystemConstruction.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\SystemCo.D352D090.Up2Date
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\SystemConstruction.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\refint\SystemConstruction.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\SystemConstruction.pdb
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\SystemConstruction.genruntimeconfig.cache
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\ref\SystemConstruction.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\CreateBuildingPage.g.cs
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\CreateBuildingPage.baml
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\SelectBuildingPage.g.cs
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\SelectBuildingPage.baml
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\BuildingInfoPage.g.cs
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\BuildingInfoPage.baml
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\ViewBudgetFrame.g.cs
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\ViewBudgetFrame.baml
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\AddEditBudgetPage.g.cs
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\AddEditBudgetPage.baml
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\MaterialsFrame.g.cs
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\MaterialsFrame.baml
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\AddEditMaterialPage.g.cs
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\AddEditMaterialPage.baml
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\ViewPlansFrame.g.cs
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\ViewPlansFrame.baml
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\AddEditPlanPage.g.cs
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\AddEditPlanPage.baml
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\ViewResourcesPage.g.cs
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\ViewResourcesPage.baml
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\AddEditResourcePage.g.cs
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\AddEditResourcePage.baml
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\AddEditStatusPage.g.cs
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\ViewStatusesPage.g.cs
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\AddEditStatusPage.baml
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\ViewStatusesPage.baml
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\EditBuildingNamePage.g.cs
+C:\Users\Igor\source\repos\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\EditBuildingNamePage.baml
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\SystemConstruction.exe
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\SystemConstruction.deps.json
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\SystemConstruction.runtimeconfig.json
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\SystemConstruction.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\SystemConstruction.pdb
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\SystemConstruction.csproj.AssemblyReference.cache
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\AddEditBudgetPage.g.cs
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\AddEditMaterialPage.g.cs
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\AddEditPlanPage.g.cs
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\AddEditResourcePage.g.cs
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\AddEditStatusPage.g.cs
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\BuildingInfoPage.g.cs
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\CreateBuildingPage.g.cs
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\EditBuildingNamePage.g.cs
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\MaterialsFrame.g.cs
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\SelectBuildingPage.g.cs
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\ViewBudgetFrame.g.cs
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\ViewPlansFrame.g.cs
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\ViewResourcesPage.g.cs
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\ViewStatusesPage.g.cs
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\SystemConstruction_MarkupCompile.cache
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\SystemConstruction_MarkupCompile.lref
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\App.baml
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\AddEditBudgetPage.baml
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\AddEditMaterialPage.baml
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\AddEditPlanPage.baml
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\AddEditResourcePage.baml
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\AddEditStatusPage.baml
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\BuildingInfoPage.baml
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\CreateBuildingPage.baml
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\EditBuildingNamePage.baml
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\MaterialsFrame.baml
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\SelectBuildingPage.baml
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\ViewBudgetFrame.baml
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\ViewPlansFrame.baml
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\ViewResourcesPage.baml
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\ViewStatusesPage.baml
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\SystemConstruction.g.resources
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\SystemConstruction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\SystemConstruction.AssemblyInfoInputs.cache
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\SystemConstruction.AssemblyInfo.cs
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\SystemConstruction.csproj.CoreCompileInputs.cache
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\SystemConstruction.csproj.CopyComplete
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\SystemConstruction.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\refint\SystemConstruction.dll
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\SystemConstruction.pdb
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\SystemConstruction.genruntimeconfig.cache
+C:\Users\oxotn\OneDrive\Рабочий стол\SystemConstruction\SystemConstruction\obj\Debug\net8.0-windows\ref\SystemConstruction.dll
